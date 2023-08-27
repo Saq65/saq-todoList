@@ -1,0 +1,15 @@
+#main{
+    height: 400px;
+    width: 300px;
+    background-color: skyblue;
+    margin-top: 12px;
+    border: 1px solid black;
+}
+h3{
+    background-color: lightgreen;
+    text-align: center;
+    border: 1px solid black;
+}
+#unique{
+    list-style: none;
+}
